@@ -1,5 +1,6 @@
 # FatFootFeetball
 Hack Upstate XIV Submission - First place winner! The information below is pulled from the Devpost submission
+https://devpost.com/software/fat-foot-feetball
 
 ## Inspiration
 Our inspiration was an old flash game that a bunch of us used to play back in the day. We decided to make it our own and everyone has their own little piece in the game.
