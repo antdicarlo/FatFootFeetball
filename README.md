@@ -1,5 +1,8 @@
 # FatFootFeetball
-Hack Upstate XIV Submission - First place winner! The information below is pulled from the Devpost submission
+Hack Upstate XIV Submission - First place winner!
+https://medium.com/@hackupstate/hack-upstate-xiv-the-results-are-in-10819971c8de
+
+The information below is pulled from the Devpost submission
 https://devpost.com/software/fat-foot-feetball
 
 ## Inspiration
